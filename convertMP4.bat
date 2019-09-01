@@ -1,0 +1,1 @@
+for /r %%i in (*.h264) do MP4Box -add %%~ni.h264 %%~ni.mp4
